@@ -21,7 +21,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Czwarta Zmiana - Blues Rock",
+  title: "Czwarta Zmiana - Oficjalna strona",
   description: "Oficjalna strona zespołu Czwarta Zmiana. Blues-rockowa energia i autorska muzyka.",
   keywords: ['czwarta zmiana', 'blues rock', 'zespół', 'muzyka', 'rock'],
   openGraph: {
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     siteName: 'Czwarta Zmiana',
     images: [
       {
-        url: 'https://czwartazmiana.netlify.app/og-image.jpg',
+        url: 'https://czwartazmiana.netlify.app/czwarta-logo.jfif',
         width: 1200,
         height: 630,
       },
