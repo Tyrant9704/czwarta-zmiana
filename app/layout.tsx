@@ -21,10 +21,26 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Czwarta zmiana - Blues Band",
-  description: "Official website of Czwarta zmiana blues band",
-    generator: 'v0.dev'
+  title: "Czwarta Zmiana - Blues Rock",
+  description: "Oficjalna strona zespołu Czwarta Zmiana. Blues-rockowa energia i autorska muzyka.",
+  keywords: ['czwarta zmiana', 'blues rock', 'zespół', 'muzyka', 'rock'],
+  openGraph: {
+    title: 'Czwarta Zmiana - Blues Rock',
+    description: 'Oficjalna strona zespołu blues-rockowego z Polski.',
+    url: 'https://czwartazmiana.netlify.app',
+    siteName: 'Czwarta Zmiana',
+    images: [
+      {
+        url: 'https://czwartazmiana.netlify.app/og-image.jpg',
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: 'pl_PL',
+    type: 'website',
+  },
 }
+
 
 export default function RootLayout({
   children,

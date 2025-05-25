@@ -62,28 +62,33 @@ export default function Home() {
         </section>
 
         {/* Music Section */}
-        <section id="music" className="bg-black px-4 py-20">
-          <div className="container mx-auto max-w-4xl">
-            <h2 className="mb-12 text-center text-4xl font-bold text-white font-heading">
-              Nasza <span className="text-[#fd492d]">Muzyka</span>
-            </h2>
-            <div className="rounded-lg border border-[#fd492d] bg-black p-8">
-              <p className="mb-6 text-center text-gray-300">Sprawdź nasz najnowszy utwór</p>
-              <div className="flex justify-center">
-                <div className="w-full max-w-3xl">
-                  <div className="relative aspect-video w-full overflow-hidden rounded-md bg-gray-800">
-                    {/* YouTube embed placeholder */}
-                    <div className="absolute inset-0 flex flex-col items-center justify-center">
-                    <iframe width="1310" height="533" src="https://www.youtube.com/embed/OKgp35ioM_8" title="ŚWIT - Czwarta Zmiana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    </div>
-                  </div>
-                  <div className="mt-4">
-                  </div>
-                </div>
-              </div>
-            </div>
+<section id="music" className="bg-black px-4 py-20">
+  <div className="container mx-auto max-w-4xl">
+    <h2 className="mb-12 text-center text-4xl font-bold text-white font-heading">
+      Nasza <span className="text-[#fd492d]">Muzyka</span>
+    </h2>
+
+    <div className="rounded-lg border border-[#fd492d] bg-black p-8">
+      <p className="mb-6 text-center text-gray-300">Sprawdź nasz najnowszy utwór</p>
+      <div className="flex justify-center">
+        <div className="w-full max-w-3xl">
+          <div className="relative aspect-video w-full overflow-hidden rounded-md bg-gray-800">
+            <iframe
+              className="absolute inset-0 h-full w-full"
+              src="https://www.youtube.com/embed/OKgp35ioM_8"
+              title="ŚWIT - Czwarta Zmiana"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
           </div>
-        </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
         {/* Concerts Section */}
         <section id="concerts" className="bg-black px-4 py-20">
