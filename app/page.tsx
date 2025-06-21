@@ -40,7 +40,7 @@ export default function Home() {
                 po dobrej imprezie. Może nieplanowany, ale prawdziwy.
               </p>
               <p>
-                Styl? Jakby Nalepa grał z Gibbonsem przy ognisku, a Ronnie Ban Zant polewał dobre whisky. Blues, rock, country, swing —  
+                Styl? Jakby Nalepa grał z Gibbonsem przy ognisku, a Ronnie Ban Zant polewał dobre whisky. Blues, rock, country, swing -  
                 wszystko co płynie z serca, bez zbędnych fajerwerków.  
                 Teksty piszemy o tym co znamy. Z życia - z tych poranków, kiedy świat boli w plecach, i z chwil, kiedy jeden uśmiech potrafi postawić na nogi.  
                 Z rozmów, co zostają w głowie dłużej niż powinny. O pracy nie śpiewamy - każdy ma ją wystarczająco w kościach.  
