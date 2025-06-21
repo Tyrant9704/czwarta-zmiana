@@ -34,7 +34,7 @@ export default function Home() {
             </h2>
             <div className="space-y-6 text-gray-300">
               <p>
-                Zaczęło się jak u wielu — kilka riffów po godzinach, dym w powietrzu, śmiech i ta potrzeba grania co nie daje spokoju.  
+                Zaczęło się jak u wielu - kilka riffów po godzinach, dym w powietrzu, śmiech i ta potrzeba grania co nie daje spokoju.  
                 Część z nas robi na zmiany, a że granie nie pasowało do żadnej z nich - zrobiliśmy swoją zmianę.  
                 <span className="text-[#fd492d] font-heading"> Czwartą Zmianę</span>. Tak powstała nazwa która została z nami jak tatuaż
                 po dobrej imprezie. Może nieplanowany, ale prawdziwy.
@@ -42,9 +42,9 @@ export default function Home() {
               <p>
                 Styl? Jakby Nalepa grał z Gibbonsem przy ognisku, a Ronnie Ban Zant polewał dobre whisky. Blues, rock, country, swing —  
                 wszystko co płynie z serca, bez zbędnych fajerwerków.  
-                Teksty piszemy o tym co znamy. Z życia — z tych poranków, kiedy świat boli w plecach, i z chwil, kiedy jeden uśmiech potrafi postawić na nogi.  
-                Z rozmów, co zostają w głowie dłużej niż powinny. O pracy nie śpiewamy — każdy ma ją wystarczająco w kościach.  
-                Nie mamy amuletów, ale mamy wspomnienia — z tras, z brudnych prób i z miejsc, które przez chwilę były całym światem.  
+                Teksty piszemy o tym co znamy. Z życia - z tych poranków, kiedy świat boli w plecach, i z chwil, kiedy jeden uśmiech potrafi postawić na nogi.  
+                Z rozmów, co zostają w głowie dłużej niż powinny. O pracy nie śpiewamy - każdy ma ją wystarczająco w kościach.  
+                Nie mamy amuletów, ale mamy wspomnienia - z tras, z brudnych prób i z miejsc, które przez chwilę były całym światem.  
                 Zagraliśmy już setki razy, ale głód wciąż ten sam. Chcemy więcej scen, więcej twarzy, więcej tych wieczorów po których palce bolą, a dusza tańczy.
               </p>
               <p>
