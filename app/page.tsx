@@ -9,7 +9,6 @@ import { ContactForm } from "@/components/contact-form"
 export default function Home() {
   return (
     <div className="relative min-h-screen bg-black text-white">
-      {/* Hero Section - No background, just the logo */}
       <section id="home" className="flex min-h-screen flex-col items-center justify-center">
         <div className="container mx-auto flex h-full w-full items-center justify-center">
           {/* Full-width horizontal logo with no background */}
@@ -35,27 +34,32 @@ export default function Home() {
             </h2>
             <div className="space-y-6 text-gray-300">
               <p>
-                ***Lorem Ipsum*** Zespół Czwarta Zmiana narodził się późnym wieczorem w garażu na obrzeżach miasta, gdy
-                czwórka przyjaciół po godzinach pracy postanowiła zagrać "coś swojego". Spotkali się przypadkiem - jeden
-                szukał perkusisty do małego jam session, drugi przyniósł wzmacniacz, a trzeci nie rozstawał się z gitarą 
-                nawet na nocnej zmianie. Gdy dołączył wokalista, który wcześniej śpiewał do szlifierki
-                na hali, wszystko zagrało jak trzeba. Tak powstała Czwarta Zmiana - zespół, który połączył
-                zamiłowanie do brudnego bluesa z rockową szczerością.
+                Zaczęło się jak u wielu — kilka riffów po godzinach, dym w powietrzu, śmiech i ta potrzeba grania co nie daje spokoju.  
+                Część z nas robi na zmiany, a że granie nie pasowało do żadnej z nich - zrobiliśmy swoją zmianę.  
+                <span className="text-[#fd492d] font-heading"> Czwartą Zmianę</span>. Tak powstała nazwa która została z nami jak tatuaż
+                po dobrej imprezie. Może nieplanowany, ale prawdziwy.
               </p>
               <p>
-                ***Lorem Ipsum*** Pierwsze dźwięki rozbrzmiewały w ciemnym barze o zapachu piwa i przetartych kabli, gdzie
-                scena była zrobiona z palet, a widownia liczyła trzech stałych bywalców i kota. Grali bez ciśnienia, za piwo
-                i garść braw, ale z duszą, która poruszała coś w ludziach. Z czasem pojawiły się pierwsze festiwale, lokale
-                przeglądy kapel, a nawet nagrania demo. Inspirację czerpią z twórczości Tadeusza Nalepy,
-                Dżemu, ale też amerykańskich gigantów jak Stevie Ray Waughan czy The Allman Brothers Band.
-                Ich teksty to życiówka - brudne miasto, nocne zmiany, złamane serca i kawa pita z termosu.
+                Styl? Jakby Nalepa grał z Gibbonsem przy ognisku, a Ronnie Ban Zant polewał dobre whisky. Blues, rock, country, swing —  
+                wszystko co płynie z serca, bez zbędnych fajerwerków.  
+                Teksty piszemy o tym co znamy. Z życia — z tych poranków, kiedy świat boli w plecach, i z chwil, kiedy jeden uśmiech potrafi postawić na nogi.  
+                Z rozmów, co zostają w głowie dłużej niż powinny. O pracy nie śpiewamy — każdy ma ją wystarczająco w kościach.  
+                Nie mamy amuletów, ale mamy wspomnienia — z tras, z brudnych prób i z miejsc, które przez chwilę były całym światem.  
+                Zagraliśmy już setki razy, ale głód wciąż ten sam. Chcemy więcej scen, więcej twarzy, więcej tych wieczorów po których palce bolą, a dusza tańczy.
               </p>
               <p>
-                ***Lorem Ipsum*** Dziś Czwarta Zmiana to nie tylko lokalna legenda, ale zespół, który coraz częściej pojawia się
-                na większych festiwalach blues - rockowych w kraju. Zagrali na Małej Scenie Rawa Blues Festival, a ich ostatni
-                utwór "Świt" gościł przez kilka tygodni na antenie niezależnych rozgłośni. Nadal jednak trzymają się 
-                swoich korzeni - prostych riffów, uczciwych słów i dźwięków, które lepiej brzmą z zadymionego głośnika
-                niż z laptopa. Dla nich muzyka to więcej niż hobby - to zmiana, którą wybierają każdej nocy.
+                Dla nas blues to nie tylko muzyka. To coś, co się niesie przez życie jak stary riff - czasem brudny, czasem czysty, ale zawsze prawdziwy.
+                Pisząc teksty nie zastanawiamy się, czy to się sprzeda. Pisząc teksty mówimy jak jest. O ludziach których mijamy, o rzeczach które bolą
+                i o tych, które radują człowieka, kiedy świat siada na karku. To dźwięki, które nie potrzebują fajerwerków. Wystarczy gitara, szczere słowo
+                i ktoś, kto to poczuje. Gramy, bo coś w nas każe grać - i póki się to nie wypali, będziemy podkręcać każdy wers i każdą solówkę tak, jakby 
+                miał to być nasz ostatni koncert. A jeśli mielibyśmy coś powiedzieć tym, którzy nas słuchają?
+              </p>
+              <p>
+              <span className="font-bold font-heading text-[#fd492d] text-lg text-2x1"> Carpe Diem</span>
+              </p>
+              <p>
+                Bo wszystko inne może poczekać. Ale dobre granie? Ono się dzieje tu i teraz. I właśnie od tego tu jesteśmy - 
+                od <span className="text-[#fd492d] font-heading"> Czwartej Zmiany</span>
               </p>
             </div>
           </div>
